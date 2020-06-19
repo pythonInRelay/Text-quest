@@ -12,4 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: StartingState
   m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
-  storyText: 
+  storyText: 'You have awoken from what seems like an endless slumber...
+
+
+    As
+    your eyesights returns, you realise that you are lying in a field, on the cusp
+    of dusk.
+
+
+    With your eyesight mostly returned, your other senses are also
+    coming back slowly. Your neck is sore and you realise you must have awoken from
+    the cold of dusk.
+
+
+    Instinctively you reach out your right hand, to which
+    you find a backpack.
+
+
+    Choose your action:
+
+
+    1. Open the backpack
+
+    2.
+    Wait for the rest of your senses to return'

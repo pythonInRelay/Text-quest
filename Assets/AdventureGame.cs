@@ -5,17 +5,21 @@ using UnityEngine.UI;
 
 public class AdventureGame : MonoBehaviour
 {
-   [SerializeField] Text textComponent;
-    
-    // Start is called before the first frame update
-    void Start()
+   [SerializeField] private Text textComponent;
+   [SerializeField] private State startingState;
+
+   private State _state;
+   
+   // Start is called before the first frame update
+    private void Start()
     {
-        textComponent.text = "You have woken up from what feels like a long coma";
+        _state = startingState;
+        textComponent.text = _state.GetStateStory();
 
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         
     }

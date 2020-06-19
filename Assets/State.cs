@@ -3,8 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "State")]
-public class NewBehaviourScript : ScriptableObject
+public class State : ScriptableObject
 {
-    [TextArea(10,14)] [SerializeField] string storyText;
+    [TextArea(10,14)] [SerializeField] private string storyText;
+
+    public string GetStateStory()
+    {
+        return storyText;
+    }
     
 }
