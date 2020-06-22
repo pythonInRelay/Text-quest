@@ -40,11 +40,6 @@ public class AdventureGame : MonoBehaviour
         {
             _state = nextStates[1];
         }
-        
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
-        {
-            _state = nextStates[2];
-        }
 
         textComponent.text = _state.GetStateStory();
     }

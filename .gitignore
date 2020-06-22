@@ -58,6 +58,9 @@ sysinfo.txt
 # Rider metadata
 *.idea
 
+# Unity asset meta files
+*.asset.meta
+
 # Builds
 *.apk
 *.aab
