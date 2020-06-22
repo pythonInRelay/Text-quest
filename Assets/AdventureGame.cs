@@ -1,7 +1,10 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.UI;
+using Debug = UnityEngine.Debug;
 
 public class AdventureGame : MonoBehaviour
 {
@@ -15,12 +18,17 @@ public class AdventureGame : MonoBehaviour
     {
         _state = startingState;
         textComponent.text = _state.GetStateStory();
-
+        
     }
 
     // Update is called once per frame
     private void Update()
     {
-        
+        ManageState();
+    }
+    
+    private void ManageState()
+    {
+        var nextStates = _state.GetNextStates();
     }
 }
