@@ -51,14 +51,9 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-*.asset.meta
-*.cs.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
-
-# Rider metadata
-*.idea
 
 # Builds
 *.apk
@@ -74,3 +69,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Rider metadata
+*.idea
