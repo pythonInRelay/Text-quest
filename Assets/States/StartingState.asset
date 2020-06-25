@@ -12,10 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
-  storyText: Here is some test text to see if this is added upon the first start
-    of the game!
+  storyText: 'You''ve woken up in the middle of what looks like a forest, at the
+    cusp of dusk. The air smells damp and your head is pounding. You have no recollection
+    of how you arrived at this location.
+
+
+    Your body is cold, slow and aching.
+    Slowly you start to feel hungry.
+
+
+    Clumsily you instinctively move your hand,
+    whereby it brushes upon what seems to be a backpack.
+
+
+    Choices
+
+
+    1. Open
+    the backpack
+
+    2. Wait longer for your senses to return.'
   nextStates:
   - {fileID: 11400000, guid: 6479a8e91ebc2d14fa219d95fa24ee01, type: 2}
   - {fileID: 11400000, guid: 64c67189aba6ac449b9cba12702829aa, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}

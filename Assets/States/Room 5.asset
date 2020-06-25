@@ -12,5 +12,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 5
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You check the last message on the phone.
+
+
+    31 days ago
+
+    Dad
+    - Son where the fuck are you? Your flight is going to leave in 15 minutes.
+
+    Why
+    I am even bothering to message you I have no idea. I spend all this money on
+    your tuition and tickets to send you to the best school possible, but you don''t
+    even show up for your plane?
+
+    For god''s sake answer the phone!
+
+
+    As
+    your eyes finish reading the final sentence, the phone dies. It is useless now.
+
+
+    Choices:
+
+
+    1.
+    Try the phone again
+
+    2. Examine your surroundings'
+  nextStates:
+  - {fileID: 11400000, guid: 95fda3f91e955f14fb2557af0677091a, type: 2}
+  - {fileID: 11400000, guid: c6db3e8c9f3f382429facea0313f0e9c, type: 2}

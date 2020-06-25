@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'As you suspected, the phone is not responding.
+
+
+    Choices:
+
+
+    1.
+    Examine your surroudnings'
+  nextStates:
+  - {fileID: 11400000, guid: c6db3e8c9f3f382429facea0313f0e9c, type: 2}

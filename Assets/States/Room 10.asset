@@ -12,5 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 10
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You call your father. He''s frantic but agrees to come get you from
+    the location that the storekeeper gave you.
+
+
+    Whilst waiting you make a conscious
+    decision to not drink this much ever again.
+
+
+    Congratulations on not dying!
+
+
+    Choices
+
+
+    1.
+    Play again'
+  nextStates:
+  - {fileID: 11400000, guid: b1599a870a663dd4ea826c42c671795f, type: 2}

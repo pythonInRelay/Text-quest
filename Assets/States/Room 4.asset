@@ -12,5 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 4
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You start dialing the emergency number. The phone rings briefly
+
+
+    "Hello,
+    you''ve reached the emergency hotli-"
+
+
+    The phone dies. It''s useless no,
+    and you doubt that no one is coming (they probably thought it was a prank).
+
+
+    Now
+    what?
+
+
+    Choices
+
+
+    1. Examine your surroundings
+
+    2. Start walking
+    in a random direction'
+  nextStates:
+  - {fileID: 11400000, guid: c6db3e8c9f3f382429facea0313f0e9c, type: 2}
+  - {fileID: 11400000, guid: c07fde703531d174e80d850999f99a1e, type: 2}

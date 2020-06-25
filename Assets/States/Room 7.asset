@@ -12,5 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 7
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You walk for a while in the direction of the moon and come to a road,
+    there is a single dimly lit light post.
+
+
+    What do you do?
+
+
+    Choices:
+
+
+    1.
+    Stand under the lightpost and wait for a car
+
+    2. Walk along the road'
+  nextStates:
+  - {fileID: 11400000, guid: e54cfba0ff32f55448a95450c3e25c60, type: 2}
+  - {fileID: 11400000, guid: e54cfba0ff32f55448a95450c3e25c60, type: 2}

@@ -12,5 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 9
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'The woman lets out a laugh.
+
+
+    "I''m afraid that costs money, and
+    you don''t seem to have any."
+
+
+    You aren''t sure what you were expecting
+
+
+    Choices:
+
+
+    1.
+    Ask to call for help'
+  nextStates:
+  - {fileID: 11400000, guid: d9340b97737d5fe47bba7de9ed8aafa4, type: 2}

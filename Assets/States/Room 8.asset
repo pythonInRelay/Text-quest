@@ -12,5 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 8
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You''ve come to a gas station and the lights are on.
+
+
+    You walk
+    inside and are greeted by an old lady.
+
+
+    Choices:
+
+
+    1. Ask for some food
+
+    2.
+    Ask to call for help'
+  nextStates:
+  - {fileID: 11400000, guid: a14a1545e6cbaae489bc634cbdfa3026, type: 2}
+  - {fileID: 11400000, guid: d9340b97737d5fe47bba7de9ed8aafa4, type: 2}

@@ -12,5 +12,35 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 1
   m_EditorClassIdentifier: 
-  storyText: I am in room 1
-  nextStates: []
+  storyText: 'You open the backpack and are immediately repulsed by the stench of
+    what smells like vomit and rotting food.
+
+    The smell makes you gag and you
+    fling the backpack to the ground, at which point you hear a cracking sound.
+
+
+    After
+    a few minutes your senses have returned properly and you reach for the backpack
+    again, this time holding your breath.
+
+
+    Inside sure enough is vomit, though
+    it does not appear to be yours. Whilst the taste of bile is present in your throat,
+    you are sure that you have not thrown up recently.
+
+
+    In the front pocket
+    of the backpack you pull out a mobile phone. It is broken, presumably from you
+    throwing the bag.
+
+
+    Choices
+
+
+    1. Try the broken phone
+
+    2. Examine
+    your surroundings'
+  nextStates:
+  - {fileID: 11400000, guid: 95fda3f91e955f14fb2557af0677091a, type: 2}
+  - {fileID: 11400000, guid: c6db3e8c9f3f382429facea0313f0e9c, type: 2}

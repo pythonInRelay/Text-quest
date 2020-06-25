@@ -12,5 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 6
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You check your surroundings. There aren''t a whole lot of trees around,
+    and nothing is making any noise either. The air is damp and cold.
+
+
+    Faintly
+    you can see the moonlight shining through the trees, though through the canopy
+    you can''t directly see the moon.
+
+
+    Your clothes seem to be in okay condition,
+    but your head and muscles hurt. It''s clear that you have been sleeping for quite
+    some time.
+
+
+    Choices:
+
+
+    1. Start walking towards the moon
+
+    2. Walk
+    in the opposite direction of the moon'
+  nextStates:
+  - {fileID: 11400000, guid: c07fde703531d174e80d850999f99a1e, type: 2}
+  - {fileID: 11400000, guid: c07fde703531d174e80d850999f99a1e, type: 2}

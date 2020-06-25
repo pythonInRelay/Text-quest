@@ -12,5 +12,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aef7e428934c1af4db24105e7b0b3ecc, type: 3}
   m_Name: Room 2
   m_EditorClassIdentifier: 
-  storyText: I am in room 2
-  nextStates: []
+  storyText: 'You decide to wait a few more minutes for your senses to return. In
+    the meantime you start to notice a horrible smell coming from the backpack. With
+    every passing second the smell is getting worse and worse.
+
+
+    You move away
+    from the backpack as the smell now is getting beyond your ability to handle it.
+
+
+    Finding
+    a stick close by you use it to carefully open the large pouch, the smell is terrible.
+    It smells like days old vomit. What-ever is further inside this compartment cannot
+    possibly be worth the trouble of exposing yourself to more of the smell.
+
+
+    Opening
+    the front compartment though you notice a phone and pick it up.
+
+
+    You notice
+    immediately that the battery level is at only 1%, that is, the phone is almost
+    dead.
+
+    It will probably have enough battery for only one brief action before
+    dying.
+
+
+    Choices
+
+    1. Check messages
+
+    2. Call emergency number'
+  nextStates:
+  - {fileID: 11400000, guid: 54145c5b981d277488881e5c7cfa1d39, type: 2}
+  - {fileID: 11400000, guid: fddeff017fefe1a438fd194f8c105750, type: 2}
