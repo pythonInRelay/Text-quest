@@ -8,7 +8,7 @@ The main purpose was to write a game from the beginning utilising best-practices
 ### Methods Used
 * Created an array to store states
 * Basic UI design
-* Key inmput mapping
+* Key input mapping
 * TextMeshPro package was used to create and manage font effects
 * C# scripting
 * Git for VCS
