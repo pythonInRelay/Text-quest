@@ -22,6 +22,7 @@ __________________________________________
 
 ## Other features used: 
 * Story logic was crafted using Draw.io (.xml is included in the repo root)
+* Trello to plan the development process
 
 ____________________________________________
 
