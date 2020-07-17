@@ -1,4 +1,4 @@
-# Test Quest (Afterthought Game)
+# Text Quest (Afterthought Game)
 
 _________________________
 
