@@ -19,8 +19,8 @@ __________________________________________
 * Key input mapping
 * TextMeshPro package was used to create and manage font effects
 * C# scripting
-* Git for VCS
 * Story logic was crafted using Draw.io (.xml is included in the repo root)
+* Git for VCS
 
 ____________________________________________
 
