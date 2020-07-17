@@ -1,11 +1,19 @@
 # Test Quest (Afterthought Game)
 
-### Made in Unity 2019
-A simple text based adventure game I created in Unity.
+_________________________
+
+*NB! If you are viewing these respositories as a means to assess my skills, please also see my latest projects.*
+_________________________
+
+A simple text based adventure game using Unity and written in C#.
 
 The main purpose was to write a game from the beginning utilising best-practices while learing about game 'states' and how to efficiently organise game logic. In doing so, I created an easy framework in which more states (rooms) can be added simply to expand and improve the game story without 'reinventing the wheel' or getting complicated.
 
-### Methods Used
+**Time taken to completion: 15-20 minutes**
+__________________________________________
+
+## Unity features used:
+
 * Created an array to store states
 * Basic UI design
 * Key input mapping
