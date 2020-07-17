@@ -9,7 +9,7 @@ A simple text based adventure game using Unity and written in C#.
 
 The main purpose was to write a game from the beginning utilising best-practices while learing about game 'states' and how to efficiently organise game logic. In doing so, I created an easy framework in which more states (rooms) can be added simply to expand and improve the game story without 'reinventing the wheel' or getting complicated.
 
-**Time taken to completion: 2 hours**
+**Time taken to completion: ~1 hour**
 __________________________________________
 
 ## Unity features used:
@@ -29,9 +29,3 @@ The player can move from room (state) to room until they complete or fail the ga
 
 ### Controls:
 Press key 1 for option 1 and key 2 for option 2.
-
-____________________________________________
-
-Total time to completion was around 1 hour.
-
-Thanks for looking and please check out my newest projects.
